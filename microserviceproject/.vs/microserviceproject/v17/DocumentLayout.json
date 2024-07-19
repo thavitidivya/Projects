@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\microserviceproject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22C77E10-35FA-4D73-8CE1-4ACB8941FFCC}|OrderService\\OrderService.csproj|c:\\users\\administrator\\source\\repos\\microserviceproject\\orderservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22C77E10-35FA-4D73-8CE1-4ACB8941FFCC}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22C77E10-35FA-4D73-8CE1-4ACB8941FFCC}|OrderService\\OrderService.csproj|c:\\users\\administrator\\source\\repos\\microserviceproject\\orderservice\\serviceconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22C77E10-35FA-4D73-8CE1-4ACB8941FFCC}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\serviceconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22C77E10-35FA-4D73-8CE1-4ACB8941FFCC}|OrderService\\OrderService.csproj|c:\\users\\administrator\\source\\repos\\microserviceproject\\orderservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{22C77E10-35FA-4D73-8CE1-4ACB8941FFCC}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B5FAAB-742D-4706-8713-B5C26A4D190B}|ProductService\\ProductService.csproj|c:\\users\\administrator\\source\\repos\\microserviceproject\\productservice\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B5FAAB-742D-4706-8713-B5C26A4D190B}|ProductService\\ProductService.csproj|solutionrelative:productservice\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B5FAAB-742D-4706-8713-B5C26A4D190B}|ProductService\\ProductService.csproj|c:\\users\\administrator\\source\\repos\\microserviceproject\\productservice\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B5FAAB-742D-4706-8713-B5C26A4D190B}|ProductService\\ProductService.csproj|solutionrelative:productservice\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B5FAAB-742D-4706-8713-B5C26A4D190B}|ProductService\\ProductService.csproj|c:\\users\\administrator\\source\\repos\\microserviceproject\\productservice\\productservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C3B5FAAB-742D-4706-8713-B5C26A4D190B}|ProductService\\ProductService.csproj|solutionrelative:productservice\\productservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B5FAAB-742D-4706-8713-B5C26A4D190B}|ProductService\\ProductService.csproj|c:\\users\\administrator\\source\\repos\\microserviceproject\\productservice\\servicesconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B5FAAB-742D-4706-8713-B5C26A4D190B}|ProductService\\ProductService.csproj|solutionrelative:productservice\\servicesconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B5FAAB-742D-4706-8713-B5C26A4D190B}|ProductService\\ProductService.csproj|c:\\users\\administrator\\source\\repos\\microserviceproject\\productservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B5FAAB-742D-4706-8713-B5C26A4D190B}|ProductService\\ProductService.csproj|solutionrelative:productservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B5FAAB-742D-4706-8713-B5C26A4D190B}|ProductService\\ProductService.csproj|c:\\users\\administrator\\source\\repos\\microserviceproject\\productservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C3B5FAAB-742D-4706-8713-B5C26A4D190B}|ProductService\\ProductService.csproj|solutionrelative:productservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B5FAAB-742D-4706-8713-B5C26A4D190B}|ProductService\\ProductService.csproj|c:\\users\\administrator\\source\\repos\\microserviceproject\\productservice\\productservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{C3B5FAAB-742D-4706-8713-B5C26A4D190B}|ProductService\\ProductService.csproj|solutionrelative:productservice\\productservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B5FAAB-742D-4706-8713-B5C26A4D190B}|ProductService\\ProductService.csproj|c:\\users\\administrator\\source\\repos\\microserviceproject\\productservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C3B5FAAB-742D-4706-8713-B5C26A4D190B}|ProductService\\ProductService.csproj|solutionrelative:productservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\microserviceproject\\OrderService\\Program.cs",
+              "RelativeDocumentMoniker": "OrderService\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\microserviceproject\\OrderService\\Program.cs",
+              "RelativeToolTip": "OrderService\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T17:05:29.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\microserviceproject\\OrderService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "OrderService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\microserviceproject\\OrderService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "OrderService\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-11T17:05:00.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Serviceconfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\microserviceproject\\OrderService\\Serviceconfiguration.cs",
+              "RelativeDocumentMoniker": "OrderService\\Serviceconfiguration.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\microserviceproject\\OrderService\\Serviceconfiguration.cs",
+              "RelativeToolTip": "OrderService\\Serviceconfiguration.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAADwvx0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T17:04:47.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductService.csproj",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\microserviceproject\\ProductService\\ProductService.csproj",
+              "RelativeDocumentMoniker": "ProductService\\ProductService.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\microserviceproject\\ProductService\\ProductService.csproj",
+              "RelativeToolTip": "ProductService\\ProductService.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-11T16:49:48.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\microserviceproject\\ProductService\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ProductService\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\microserviceproject\\ProductService\\Models\\Product.cs",
+              "RelativeToolTip": "ProductService\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T16:48:50.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\microserviceproject\\ProductService\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProductService\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\microserviceproject\\ProductService\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProductService\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAmwAcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T16:46:25.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\microserviceproject\\ProductService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ProductService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\microserviceproject\\ProductService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ProductService\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-11T16:43:56.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductService.http",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\microserviceproject\\ProductService\\ProductService.http",
+              "RelativeDocumentMoniker": "ProductService\\ProductService.http",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\microserviceproject\\ProductService\\ProductService.http",
+              "RelativeToolTip": "ProductService\\ProductService.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-07-11T16:43:43.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\microserviceproject\\ProductService\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductService\\appsettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\microserviceproject\\ProductService\\appsettings.json",
+              "RelativeToolTip": "ProductService\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-11T16:43:39.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\microserviceproject\\ProductService\\Program.cs",
+              "RelativeDocumentMoniker": "ProductService\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\microserviceproject\\ProductService\\Program.cs",
+              "RelativeToolTip": "ProductService\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwBkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T16:40:15.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Servicesconfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\microserviceproject\\ProductService\\Servicesconfiguration.cs",
+              "RelativeDocumentMoniker": "ProductService\\Servicesconfiguration.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\microserviceproject\\ProductService\\Servicesconfiguration.cs",
+              "RelativeToolTip": "ProductService\\Servicesconfiguration.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwB8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T16:39:15.341Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

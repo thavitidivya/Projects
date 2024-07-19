@@ -1,0 +1,1 @@
+C:\Users\Administrator\source\repos\BookApp\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache

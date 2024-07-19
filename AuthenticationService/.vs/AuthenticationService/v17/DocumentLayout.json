@@ -1,0 +1,257 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\AuthenticationService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7373AAF9-E8E2-4E9B-9924-CA2D494C8A83}|AuthenticationService\\AuthenticationService.csproj|c:\\users\\administrator\\source\\repos\\authenticationservice\\authenticationservice\\service\\ijwtservicecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7373AAF9-E8E2-4E9B-9924-CA2D494C8A83}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\service\\ijwtservicecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7373AAF9-E8E2-4E9B-9924-CA2D494C8A83}|AuthenticationService\\AuthenticationService.csproj|c:\\users\\administrator\\source\\repos\\authenticationservice\\authenticationservice\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7373AAF9-E8E2-4E9B-9924-CA2D494C8A83}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7373AAF9-E8E2-4E9B-9924-CA2D494C8A83}|AuthenticationService\\AuthenticationService.csproj|c:\\users\\administrator\\source\\repos\\authenticationservice\\authenticationservice\\context\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7373AAF9-E8E2-4E9B-9924-CA2D494C8A83}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\context\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7373AAF9-E8E2-4E9B-9924-CA2D494C8A83}|AuthenticationService\\AuthenticationService.csproj|c:\\users\\administrator\\source\\repos\\authenticationservice\\authenticationservice\\models\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7373AAF9-E8E2-4E9B-9924-CA2D494C8A83}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\models\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7373AAF9-E8E2-4E9B-9924-CA2D494C8A83}|AuthenticationService\\AuthenticationService.csproj|c:\\users\\administrator\\source\\repos\\authenticationservice\\authenticationservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7373AAF9-E8E2-4E9B-9924-CA2D494C8A83}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7373AAF9-E8E2-4E9B-9924-CA2D494C8A83}|AuthenticationService\\AuthenticationService.csproj|c:\\users\\administrator\\source\\repos\\authenticationservice\\authenticationservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7373AAF9-E8E2-4E9B-9924-CA2D494C8A83}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7373AAF9-E8E2-4E9B-9924-CA2D494C8A83}|AuthenticationService\\AuthenticationService.csproj|c:\\users\\administrator\\source\\repos\\authenticationservice\\authenticationservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7373AAF9-E8E2-4E9B-9924-CA2D494C8A83}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7373AAF9-E8E2-4E9B-9924-CA2D494C8A83}|AuthenticationService\\AuthenticationService.csproj|c:\\users\\administrator\\source\\repos\\authenticationservice\\authenticationservice\\migrations\\20240718070141_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7373AAF9-E8E2-4E9B-9924-CA2D494C8A83}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\migrations\\20240718070141_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7373AAF9-E8E2-4E9B-9924-CA2D494C8A83}|AuthenticationService\\AuthenticationService.csproj|c:\\users\\administrator\\source\\repos\\authenticationservice\\authenticationservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7373AAF9-E8E2-4E9B-9924-CA2D494C8A83}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7373AAF9-E8E2-4E9B-9924-CA2D494C8A83}|AuthenticationService\\AuthenticationService.csproj|c:\\users\\administrator\\source\\repos\\authenticationservice\\authenticationservice\\authenticationservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{7373AAF9-E8E2-4E9B-9924-CA2D494C8A83}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\authenticationservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7373AAF9-E8E2-4E9B-9924-CA2D494C8A83}|AuthenticationService\\AuthenticationService.csproj|c:\\users\\administrator\\source\\repos\\authenticationservice\\authenticationservice\\models\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7373AAF9-E8E2-4E9B-9924-CA2D494C8A83}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\models\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7373AAF9-E8E2-4E9B-9924-CA2D494C8A83}|AuthenticationService\\AuthenticationService.csproj|c:\\users\\administrator\\source\\repos\\authenticationservice\\authenticationservice\\authenticationservice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{7373AAF9-E8E2-4E9B-9924-CA2D494C8A83}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\authenticationservice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7373AAF9-E8E2-4E9B-9924-CA2D494C8A83}|AuthenticationService\\AuthenticationService.csproj|c:\\users\\administrator\\source\\repos\\authenticationservice\\authenticationservice\\authenticationservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7373AAF9-E8E2-4E9B-9924-CA2D494C8A83}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\authenticationservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7373AAF9-E8E2-4E9B-9924-CA2D494C8A83}|AuthenticationService\\AuthenticationService.csproj|c:\\users\\administrator\\source\\repos\\authenticationservice\\authenticationservice\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7373AAF9-E8E2-4E9B-9924-CA2D494C8A83}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IJwtServicecs.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\AuthenticationService\\AuthenticationService\\Service\\IJwtServicecs.cs",
+              "RelativeDocumentMoniker": "AuthenticationService\\Service\\IJwtServicecs.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\AuthenticationService\\AuthenticationService\\Service\\IJwtServicecs.cs",
+              "RelativeToolTip": "AuthenticationService\\Service\\IJwtServicecs.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAIwAcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T12:15:18.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\AuthenticationService\\AuthenticationService\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "AuthenticationService\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\AuthenticationService\\AuthenticationService\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "AuthenticationService\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAswD0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T11:48:38.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\AuthenticationService\\AuthenticationService\\Program.cs",
+              "RelativeDocumentMoniker": "AuthenticationService\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\AuthenticationService\\AuthenticationService\\Program.cs",
+              "RelativeToolTip": "AuthenticationService\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwBIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T12:18:05.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\AuthenticationService\\AuthenticationService\\Models\\UserRegisterDto.cs",
+              "RelativeDocumentMoniker": "AuthenticationService\\Models\\UserRegisterDto.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\AuthenticationService\\AuthenticationService\\Models\\UserRegisterDto.cs",
+              "RelativeToolTip": "AuthenticationService\\Models\\UserRegisterDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAmwAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T11:54:07.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\AuthenticationService\\AuthenticationService\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "AuthenticationService\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\AuthenticationService\\AuthenticationService\\appsettings.Development.json",
+              "RelativeToolTip": "AuthenticationService\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-18T16:29:25.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\AuthenticationService\\AuthenticationService\\Models\\User.cs",
+              "RelativeDocumentMoniker": "AuthenticationService\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\AuthenticationService\\AuthenticationService\\Models\\User.cs",
+              "RelativeToolTip": "AuthenticationService\\Models\\User.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwA4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T11:53:49.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\AuthenticationService\\AuthenticationService\\Context\\UserContext.cs",
+              "RelativeDocumentMoniker": "AuthenticationService\\Context\\UserContext.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\AuthenticationService\\AuthenticationService\\Context\\UserContext.cs",
+              "RelativeToolTip": "AuthenticationService\\Context\\UserContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T11:59:24.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\AuthenticationService\\AuthenticationService\\appsettings.json",
+              "RelativeDocumentMoniker": "AuthenticationService\\appsettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\AuthenticationService\\AuthenticationService\\appsettings.json",
+              "RelativeToolTip": "AuthenticationService\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-18T07:03:09.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240718070141_initial.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\AuthenticationService\\AuthenticationService\\Migrations\\20240718070141_initial.cs",
+              "RelativeDocumentMoniker": "AuthenticationService\\Migrations\\20240718070141_initial.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\AuthenticationService\\AuthenticationService\\Migrations\\20240718070141_initial.cs",
+              "RelativeToolTip": "AuthenticationService\\Migrations\\20240718070141_initial.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T07:01:42.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserLoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\AuthenticationService\\AuthenticationService\\Models\\UserLoginDto.cs",
+              "RelativeDocumentMoniker": "AuthenticationService\\Models\\UserLoginDto.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\AuthenticationService\\AuthenticationService\\Models\\UserLoginDto.cs",
+              "RelativeToolTip": "AuthenticationService\\Models\\UserLoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T11:54:25.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthenticationService.http",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\AuthenticationService\\AuthenticationService\\AuthenticationService.http",
+              "RelativeDocumentMoniker": "AuthenticationService\\AuthenticationService.http",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\AuthenticationService\\AuthenticationService\\AuthenticationService.http",
+              "RelativeToolTip": "AuthenticationService\\AuthenticationService.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-07-17T12:19:53.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthenticationService",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\AuthenticationService\\AuthenticationService\\AuthenticationService.csproj",
+              "RelativeDocumentMoniker": "AuthenticationService\\AuthenticationService.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\AuthenticationService\\AuthenticationService\\AuthenticationService.csproj",
+              "RelativeToolTip": "AuthenticationService\\AuthenticationService.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-16T12:16:38.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthenticationService.csproj",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\AuthenticationService\\AuthenticationService\\AuthenticationService.csproj",
+              "RelativeDocumentMoniker": "AuthenticationService\\AuthenticationService.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\AuthenticationService\\AuthenticationService\\AuthenticationService.csproj",
+              "RelativeToolTip": "AuthenticationService\\AuthenticationService.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-15T11:53:17.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\AuthenticationService\\AuthenticationService\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "AuthenticationService\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\AuthenticationService\\AuthenticationService\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "AuthenticationService\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T11:47:49.216Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

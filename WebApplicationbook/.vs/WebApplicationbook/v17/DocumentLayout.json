@@ -1,0 +1,423 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\WebApplicationbook\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A92C3B-EC40-497B-9956-00ECF51AE9C2}|..\\..\\..\\..\\..\\RecommendationService\\RecommendationService.csproj|c:\\recommendationservice\\controllers\\recommendationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A92C3B-EC40-497B-9956-00ECF51AE9C2}|..\\..\\..\\..\\..\\RecommendationService\\RecommendationService.csproj|c:\\recommendationservice\\models\\recommendation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92F64A9D-C543-4F4E-AA7D-2107C0FB9717}|..\\..\\..\\..\\..\\BookService\\BookService.csproj|c:\\bookservice\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92F64A9D-C543-4F4E-AA7D-2107C0FB9717}|..\\..\\..\\..\\..\\BookService\\BookService.csproj|c:\\bookservice\\context\\bookcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92F64A9D-C543-4F4E-AA7D-2107C0FB9717}|..\\..\\..\\..\\..\\BookService\\BookService.csproj|c:\\bookservice\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92F64A9D-C543-4F4E-AA7D-2107C0FB9717}|..\\..\\..\\..\\..\\BookService\\BookService.csproj|c:\\bookservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92F64A9D-C543-4F4E-AA7D-2107C0FB9717}|..\\..\\..\\..\\..\\BookService\\BookService.csproj|c:\\bookservice\\models\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A92C3B-EC40-497B-9956-00ECF51AE9C2}|..\\..\\..\\..\\..\\RecommendationService\\RecommendationService.csproj|c:\\recommendationservice\\services\\recommendationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92F64A9D-C543-4F4E-AA7D-2107C0FB9717}|..\\..\\..\\..\\..\\BookService\\BookService.csproj|c:\\bookservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92F64A9D-C543-4F4E-AA7D-2107C0FB9717}|..\\..\\..\\..\\..\\BookService\\BookService.csproj|c:\\bookservice\\bookservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A92C3B-EC40-497B-9956-00ECF51AE9C2}|..\\..\\..\\..\\..\\RecommendationService\\RecommendationService.csproj|c:\\recommendationservice\\models\\recommendationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A92C3B-EC40-497B-9956-00ECF51AE9C2}|..\\..\\..\\..\\..\\RecommendationService\\RecommendationService.csproj|c:\\recommendationservice\\recommendationservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Downloads\\book-app\\book-app\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Downloads\\book-app\\book-app\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\UserService\\Migrations\\20240715085521_initialdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\UserService\\Migrations\\20240715085216_initialdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\UserService\\Migrations\\20240715081811_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\UserService\\Migrations\\20240715074258_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\UserService\\Models\\UserRegisterDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\UserService\\Context\\UserContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\UserService\\service\\IJwtService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\UserService\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\UserService\\Models\\UserLoginDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\UserService\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\UserService\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\UserService\\Controllers\\AuthenticationController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RecommendationService.cs",
+              "DocumentMoniker": "C:\\RecommendationService\\services\\RecommendationService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\RecommendationService\\services\\RecommendationService.cs",
+              "ToolTip": "C:\\RecommendationService\\services\\RecommendationService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\RecommendationService\\services\\RecommendationService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T10:03:00.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\BookService\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\BookService\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\BookService\\Controllers\\BookController.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\BookService\\Controllers\\BookController.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAIwCMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T04:21:31.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Recommendation.cs",
+              "DocumentMoniker": "C:\\RecommendationService\\Models\\Recommendation.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\RecommendationService\\Models\\Recommendation.cs",
+              "ToolTip": "C:\\RecommendationService\\Models\\Recommendation.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\RecommendationService\\Models\\Recommendation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T05:02:32.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RecommendationController.cs",
+              "DocumentMoniker": "C:\\RecommendationService\\Controllers\\RecommendationController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\RecommendationService\\Controllers\\RecommendationController.cs",
+              "ToolTip": "C:\\RecommendationService\\Controllers\\RecommendationController.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\RecommendationService\\Controllers\\RecommendationController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T05:02:27.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookService.csproj",
+              "DocumentMoniker": "C:\\BookService\\BookService.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\BookService\\BookService.csproj",
+              "ToolTip": "C:\\BookService\\BookService.csproj",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\BookService\\BookService.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-17T11:22:07.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\BookService\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\BookService\\Models\\Book.cs",
+              "ToolTip": "C:\\BookService\\Models\\Book.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\BookService\\Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T07:17:09.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookDto.cs",
+              "DocumentMoniker": "C:\\BookService\\Models\\BookDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\BookService\\Models\\BookDto.cs",
+              "ToolTip": "C:\\BookService\\Models\\BookDto.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\BookService\\Models\\BookDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T04:56:37.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookContext.cs",
+              "DocumentMoniker": "C:\\BookService\\context\\BookContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\BookService\\context\\BookContext.cs",
+              "ToolTip": "C:\\BookService\\context\\BookContext.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\BookService\\context\\BookContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T05:05:14.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\BookService\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\BookService\\appsettings.json",
+              "ToolTip": "C:\\BookService\\appsettings.json",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\BookService\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-18T18:53:43.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RecommendationDto.cs",
+              "DocumentMoniker": "C:\\RecommendationService\\Models\\RecommendationDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\RecommendationService\\Models\\RecommendationDto.cs",
+              "ToolTip": "C:\\RecommendationService\\Models\\RecommendationDto.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\RecommendationService\\Models\\RecommendationDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T05:02:39.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserRegisterDto.cs",
+              "DocumentMoniker": "C:\\UserService\\Models\\UserRegisterDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\UserService\\Models\\UserRegisterDto.cs",
+              "ToolTip": "C:\\UserService\\Models\\UserRegisterDto.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\UserService\\Models\\UserRegisterDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T06:29:09.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "angular.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\book-app\\book-app\\angular.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\book-app\\book-app\\angular.json",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\book-app\\book-app\\angular.json",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\book-app\\book-app\\angular.json",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-16T04:07:48.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\BookService\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\BookService\\Program.cs",
+              "ToolTip": "C:\\BookService\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\BookService\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T12:21:21.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "package-lock.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\book-app\\book-app\\package-lock.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\book-app\\book-app\\package-lock.json",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\book-app\\book-app\\package-lock.json",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\book-app\\book-app\\package-lock.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-16T04:48:13.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RecommendationService.csproj",
+              "DocumentMoniker": "C:\\RecommendationService\\RecommendationService.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\RecommendationService\\RecommendationService.csproj",
+              "ToolTip": "C:\\RecommendationService\\RecommendationService.csproj",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\RecommendationService\\RecommendationService.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-15T04:08:23.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserContext.cs",
+              "DocumentMoniker": "C:\\UserService\\Context\\UserContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\UserService\\Context\\UserContext.cs",
+              "ToolTip": "C:\\UserService\\Context\\UserContext.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\UserService\\Context\\UserContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T07:38:26.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IJwtService.cs",
+              "DocumentMoniker": "C:\\UserService\\service\\IJwtService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\UserService\\service\\IJwtService.cs",
+              "ToolTip": "C:\\UserService\\service\\IJwtService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\UserService\\service\\IJwtService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAADwvysAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T10:00:24.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\UserService\\Models\\User.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\UserService\\Models\\User.cs",
+              "ToolTip": "C:\\UserService\\Models\\User.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\UserService\\Models\\User.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAswAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T06:29:06.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserLoginDto.cs",
+              "DocumentMoniker": "C:\\UserService\\Models\\UserLoginDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\UserService\\Models\\UserLoginDto.cs",
+              "ToolTip": "C:\\UserService\\Models\\UserLoginDto.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\UserService\\Models\\UserLoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T10:49:34.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\UserService\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\UserService\\appsettings.json",
+              "ToolTip": "C:\\UserService\\appsettings.json",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\UserService\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-15T07:38:34.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\UserService\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\UserService\\Program.cs",
+              "ToolTip": "C:\\UserService\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\UserService\\Program.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAADIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T07:15:55.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\UserService\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\UserService\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\UserService\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\UserService\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T14:01:02.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240715085521_initialdb.cs",
+              "DocumentMoniker": "C:\\UserService\\Migrations\\20240715085521_initialdb.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\UserService\\Migrations\\20240715085521_initialdb.cs",
+              "ToolTip": "C:\\UserService\\Migrations\\20240715085521_initialdb.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\UserService\\Migrations\\20240715085521_initialdb.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T08:55:21.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240715085216_initialdb.cs",
+              "DocumentMoniker": "C:\\UserService\\Migrations\\20240715085216_initialdb.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\UserService\\Migrations\\20240715085216_initialdb.cs",
+              "ToolTip": "C:\\UserService\\Migrations\\20240715085216_initialdb.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\UserService\\Migrations\\20240715085216_initialdb.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T08:52:16.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240715081811_initial.cs",
+              "DocumentMoniker": "C:\\UserService\\Migrations\\20240715081811_initial.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\UserService\\Migrations\\20240715081811_initial.cs",
+              "ToolTip": "C:\\UserService\\Migrations\\20240715081811_initial.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\UserService\\Migrations\\20240715081811_initial.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T08:18:11.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20240715074258_initial.cs",
+              "DocumentMoniker": "C:\\UserService\\Migrations\\20240715074258_initial.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\UserService\\Migrations\\20240715074258_initial.cs",
+              "ToolTip": "C:\\UserService\\Migrations\\20240715074258_initial.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\UserService\\Migrations\\20240715074258_initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T07:42:59.038Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

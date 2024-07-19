@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\ConsoleReflection\ConsoleReflection\bin\Debug\ConsoleReflection.exe.config
+C:\Users\Administrator\source\repos\ConsoleReflection\ConsoleReflection\bin\Debug\ConsoleReflection.exe
+C:\Users\Administrator\source\repos\ConsoleReflection\ConsoleReflection\bin\Debug\ConsoleReflection.pdb
+C:\Users\Administrator\source\repos\ConsoleReflection\ConsoleReflection\obj\Debug\ConsoleReflection.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\ConsoleReflection\ConsoleReflection\obj\Debug\ConsoleReflection.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleReflection\ConsoleReflection\obj\Debug\ConsoleReflection.exe
+C:\Users\Administrator\source\repos\ConsoleReflection\ConsoleReflection\obj\Debug\ConsoleReflection.pdb

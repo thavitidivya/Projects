@@ -1,0 +1,6 @@
+@FavouriteService_HostAddress = http://localhost:5057
+
+GET {{FavouriteService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
